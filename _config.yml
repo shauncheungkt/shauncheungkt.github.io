@@ -18,4 +18,11 @@ author:
   email:             markdotto@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:          1.0.0
+
+github:
+  repo:           https://github.com/mlampros
+  
+analyticsvidhya:       https://www.analyticsvidhya.com/
+
+r_users:          https://www.r-users.com/
