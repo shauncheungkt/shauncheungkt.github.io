@@ -9,6 +9,6 @@ title: About
 
 ## My Story so far...
 
-I studied Accounting and Finance at the Australian National University. After 6 years of sales and trading experience involving front end sales to both retail and B2B clients, I have decided to take on a new path to impact sales and customer satisfaction through analytics. This decision has been influenced by my experience in trading, where I have to identify hidden pattern in price movement to make actionable decisions. I would like to apply the same concept to business data to produce actionable insights to impact business and customer satisfaction.   
+I studied Accounting and Finance at the Australian National University. After 6 years of sales and trading experience involving both retail and B2B clients, I have decided to take on a new path to impact sales and customer satisfaction through analytics. This decision has been influenced by my experience in trading, where I have to identify hidden pattern in price movement to make actionable decisions. I would like to apply the same concept to business data to produce actionable insights to impact business and customer satisfaction.   
 
 Thanks for reading!
