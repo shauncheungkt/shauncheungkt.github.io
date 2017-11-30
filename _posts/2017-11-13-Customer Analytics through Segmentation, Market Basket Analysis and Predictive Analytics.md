@@ -20,7 +20,7 @@ This Project examines a year of online transaction data from an online retail st
 2. Market basket analysis on each segment to identify purchasing pattern using association rule
 
 3. Predicting customers' behaviour using Lifetimes Python library
-<br/>
+<!-- pagebreak -->
 
 ### The data set
 
