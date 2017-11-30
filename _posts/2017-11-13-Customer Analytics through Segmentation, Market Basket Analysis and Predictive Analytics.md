@@ -35,11 +35,11 @@ online_sales.shape
 online_sales.head()
 
   InvoiceNo	StockCode	Description	                        	
-0	  536365	  85123A	WHITE HANGING HEART T-LIGHT HOLDER	         
-1	  536365	  71053	  WHITE METAL LANTERN	                        
-2	  536365	  84406B	CREAM CUPID HEARTS COAT HANGER	           
-3	  536365	  84029G	KNITTED UNION FLAG HOT WATER BOTTLE	      
-4	  536365	  84029E	RED WOOLLY HOTTIE WHITE HEART.	         
+0	 536365	  85123A	WHITE HANGING HEART T-LIGHT HOLDER	         
+1	 536365	  71053	  WHITE METAL LANTERN	                        
+2	 536365	  84406B	CREAM CUPID HEARTS COAT HANGER	           
+3	 536365	  84029G	KNITTED UNION FLAG HOT WATER BOTTLE	      
+4	 536365	  84029E	RED WOOLLY HOTTIE WHITE HEART.	         
 
 Quantity    InvoiceDate	  UnitPrice	CustomerID	Country
    6        12/1/2010 8:26	2.55	  17850.0	  United Kingdom
