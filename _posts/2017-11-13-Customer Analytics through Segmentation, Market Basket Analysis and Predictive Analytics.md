@@ -45,11 +45,11 @@ online_sales.head()
 4 536365	84029E	RED WOOLLY HOTTIE WHITE HEART
 
 Quantity InvoiceDate UnitPrice CustomerID Country
-  6  12/1/2010 8:26  2.55	  17850.0	 United Kingdom
-  6  12/1/2010 8:26  3.39	  17850.0	 United Kingdom
-  8  12/1/2010 8:26  2.75	  17850.0	 United Kingdom
-  6  12/1/2010 8:26  3.39	  17850.0	 United Kingdom
-  6  12/1/2010 8:26  3.39	  17850.0	 United Kingdom
+  6  12/1/2010 8:26  2.55	 17850.0	United Kingdom
+  6  12/1/2010 8:26  3.39	 17850.0	United Kingdom
+  8  12/1/2010 8:26  2.75	 17850.0	United Kingdom
+  6  12/1/2010 8:26  3.39	 17850.0	United Kingdom
+  6  12/1/2010 8:26  3.39	 17850.0	United Kingdom
 
 ```
 <br><br>
