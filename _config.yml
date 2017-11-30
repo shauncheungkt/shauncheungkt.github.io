@@ -12,6 +12,8 @@ baseurl:             ''
 # Use paginate to set the number of pages shown
 paginate:            5
 
+excerpt_separator: '<br>'
+
 # About/contact
 author:
   name:              'Shaun Cheung'
