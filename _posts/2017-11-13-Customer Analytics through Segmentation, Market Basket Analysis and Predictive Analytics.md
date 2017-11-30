@@ -14,6 +14,6 @@ This Project examines a year of online transaction data from an online retail st
 
 ### Project breakdown
 
-1. RFM based customer segmentation using k-means clustering       ![Alt text](/images/segmentation.png)
+1. RFM based customer segmentation using k-means clustering       # ![Alt text](/images/segmentation.png) # insert pictures
 
 
