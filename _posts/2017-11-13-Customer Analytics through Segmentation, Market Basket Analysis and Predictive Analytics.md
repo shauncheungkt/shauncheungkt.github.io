@@ -16,6 +16,7 @@ This Project examines a year of online transaction data from an online retail st
 
 1. RFM based customer segmentation using k-means clustering      
 <!-- ![Alt text](/images/segmentation.png) to insert picture -->
+
 2. Market basket analysis on each segment to identify purchasing pattern using association rule
 
 3. Predicting customers' behaviour using Lifetimes Python library
