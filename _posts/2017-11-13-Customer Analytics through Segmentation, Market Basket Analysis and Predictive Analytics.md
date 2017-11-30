@@ -36,16 +36,16 @@ online_sales.head()
 
  InvoiceNo  StockCode	Description	                        	
 0	536365	  85123A	WHITE HANGING HEART T-LIGHT 	         
-1	536365	  71053	  WHITE METAL LANTERN	                        
+1	536365	  71053	    WHITE METAL LANTERN	                        
 2	536365	  84406B	CREAM CUPID HEARTS COAT HANGER	           
 3	536365	  84029G	KNITTED UNION FLAG HOT WATER	      
 4	536365	  84029E	RED WOOLLY HOTTIE WHITE HEART	         
 
-Quantity   InvoiceDate	UnitPrice	CustomerID	Country
-   6       12/1/2010 8:26	2.55	  17850.0	 United Kingdom
-   6       12/1/2010 8:26	3.39	  17850.0	 United Kingdom
-   8       12/1/2010 8:26	2.75	  17850.0	 United Kingdom
-   6       12/1/2010 8:26	3.39	  17850.0	 United Kingdom
-   6       12/1/2010 8:26	3.39	  17850.0	 United Kingdom
+Quantity  InvoiceDate	UnitPrice	CustomerID	Country
+   6      12/1/2010 8:26 2.55	  17850.0	 United Kingdom
+   6      12/1/2010 8:26 3.39	  17850.0	 United Kingdom
+   8      12/1/2010 8:26 2.75	  17850.0	 United Kingdom
+   6      12/1/2010 8:26 3.39	  17850.0	 United Kingdom
+   6      12/1/2010 8:26 3.39	  17850.0	 United Kingdom
 
 ```
