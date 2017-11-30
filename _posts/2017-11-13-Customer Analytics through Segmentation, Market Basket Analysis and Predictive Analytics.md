@@ -23,5 +23,5 @@ This Project examines a year of online transaction data from an online retail st
 
 ### The data set
 
-This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.It can be found @ htttps://archive.ics.uci.edu/ml/datasets/Online+Retail.
+This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.It can be downloaded from archive.ics.uci.edu/ml/datasets/Online+Retail.
 
